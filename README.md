@@ -3,7 +3,7 @@
 ### Features
 - React (with hot reloading)
 - Styled Components (with [stylelint](https://stylelint.io/))
-- Webpack 4
+- Webpack 5
 - TypeScript & ESlint & Prettier (via [@ardoq/shared-configs](https://github.com/ardoq/shared-configs))
 
 ### How to use this?
